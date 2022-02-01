@@ -1,0 +1,105 @@
+Script started on Fri 17 Mar 2017 09:59:07 PM PDT
+]0;invainn@work: ~/cs302/PA04[01;32minvainn@work[00m:[01;34m~/cs302/PA04[00m$ ./main
+Sorting for 1k numbers
+Bubble Sort Results
+Average CPU run time: 0.0091245
+Average comparisons: 496419
+Average swaps: 251220
+
+Quick Sort Results
+Average CPU run time: 0.009765
+Average comparisons: 524351
+Average swaps: 36639.3
+
+Counting Sort Results
+Average CPU run time: 0.0098442
+Average comparisons: 0
+Average swaps: 0
+
+
+Testing sorted 1k list
+Bubble Sort Results
+Average CPU run time: 3e-07
+Average comparisons: 0
+Average swaps: 0
+
+Quick Sort Results
+Average CPU run time: 1e-06
+Average comparisons: 0
+Average swaps: 0
+
+Counting Sort Results
+Average CPU run time: 3e-07
+Average comparisons: 0
+Average swaps: 0
+
+Sorting for 10k numbers
+Bubble Sort Results
+Average CPU run time: 0.82719
+Average comparisons: 49978529
+Average swaps: 2.49005e+07
+
+Quick Sort Results
+Average CPU run time: 0.913705
+Average comparisons: 51379864
+Average swaps: 3.5799e+06
+
+Counting Sort Results
+Average CPU run time: 0.0101927
+Average comparisons: 0
+Average swaps: 0
+
+
+Testing sorted 10k list
+Bubble Sort Results
+Average CPU run time: 3e-07
+Average comparisons: 0
+Average swaps: 0
+
+Quick Sort Results
+Average CPU run time: 1e-06
+Average comparisons: 0
+Average swaps: 0
+
+Counting Sort Results
+Average CPU run time: 6e-07
+Average comparisons: 0
+Average swaps: 0
+
+Sorting for 100k numbers
+Bubble Sort Results
+Average CPU run time: 89.0611
+Average comparisons: 704955676
+Average swaps: 2.504e+09
+
+Quick Sort Results
+Average CPU run time: 95.5418
+Average comparisons: 842760983
+Average swaps: 3.34727e+08
+
+Counting Sort Results
+Average CPU run time: 0.016973
+Average comparisons: 0
+Average swaps: 0
+
+
+Testing sorted 100k list
+Bubble Sort Results
+Average CPU run time: 4e-06
+Average comparisons: 0
+Average swaps: 0
+
+Quick Sort Results
+Average CPU run time: 2.9e-05
+Average comparisons: 0
+Average swaps: 0
+
+Counting Sort Results
+Average CPU run time: 6e-07
+Average comparisons: 0
+Average swaps: 0
+
+]0;invainn@work: ~/cs302/PA04[01;32minvainn@work[00m:[01;34m~/cs302/PA04[00m$ exit
+exit
+
+Script done on Fri 17 Mar 2017 10:01:44 PM PDT
